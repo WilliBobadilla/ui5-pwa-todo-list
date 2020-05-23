@@ -3,14 +3,27 @@
 ### [Demo online](https://willibobadilla.github.io/ui5-pwa-todo-list/webapp/)
 #### Forkeado de: https://github.com/jansenpenido/ui5-pwa-todo-list
 
+##Descripcion General
+Una simple lista de tareas [Progressive Web App](https://developers.google.com/web/progressive-web-apps/) gracias a [OpenUI5](https://openui5.org/) y Node.js.
+
+Al acceder a la aplicacion desde un dispositivo touch, saltará una notificacion para anhadir a tu página de inicio, asi que esto funcionaría como una aplicacion nativa, incluyendo la pantalla completa y el soporte fuera de línea.
+
+## Screenshoots
+![Entrar en las opciones (los tres puntitos)](img/primero.png)
+![Darle "Agregar al inicio" (Add to home screen)](img/segundo.png)
+![Darle "Agregar" (Add)](img/tercero.png)
+
+
+
 
 ## Overview
 A simple To-do List [Progressive Web App](https://developers.google.com/web/progressive-web-apps/) powered by [OpenUI5](https://openui5.org/) and Node.js.
 
 Upon accessing the application from a touch device, you'll be prompted to add it to your home screen, so that it'll work just like a native mobile application, including full-screen interaction and offline support.
 
-![Add to homescreen prompt](img/screenshot_1.png)
-![PWA running on the device](img/screenshot_2.png)
+![Entrar en las opciones (los tres puntitos)](img/primero.png)
+![Darle "Agregar al inicio" (Add to home screen)](img/segundo.png)
+![Darle "Agregar" (Add)](img/tercero.png)
 
 ## Instructions
 

@@ -4,7 +4,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
-					<List noDataText="No tasks for now." id="listTodo" inset="true" mode="Delete" delete="onDeleteItem"/>
+					<List noDataText="No hay tareas por ahora" id="listTodo" inset="true" mode="Delete" delete="onDeleteItem"/>
 				</content>
 				<footer>
 					<Toolbar width="100%" id="toolbarFooter">

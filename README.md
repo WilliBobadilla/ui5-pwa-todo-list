@@ -9,9 +9,9 @@ Una simple lista de tareas [Progressive Web App](https://developers.google.com/w
 Al acceder a la aplicacion desde un dispositivo touch, saltará una notificacion para anhadir a tu página de inicio, asi que esto funcionaría como una aplicacion nativa, incluyendo la pantalla completa y el soporte fuera de línea.
 
 ## Screenshoots
-![Entrar en las opciones (los tres puntitos)](img/primero.png =250x250 )
-![Darle "Agregar al inicio" (Add to home screen)](img/segundo.png =250x250 )
-![Darle "Agregar" (Add)](img/tercero.png =250x250 )
+![Entrar en las opciones (los tres puntitos)](img/primero.png)
+![Darle "Agregar al inicio" (Add to home screen)](img/segundo.png  )
+![Darle "Agregar" (Add)](img/tercero.png )
 
 
 

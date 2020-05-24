@@ -3,7 +3,7 @@
 ### [Demo online](https://willibobadilla.github.io/ui5-pwa-todo-list/webapp/)
 #### Forkeado de: https://github.com/jansenpenido/ui5-pwa-todo-list
 
-##Descripcion General
+## Descripcion General
 Una simple lista de tareas [Progressive Web App](https://developers.google.com/web/progressive-web-apps/) gracias a [OpenUI5](https://openui5.org/) y Node.js.
 
 Al acceder a la aplicacion desde un dispositivo touch, saltará una notificacion para anhadir a tu página de inicio, asi que esto funcionaría como una aplicacion nativa, incluyendo la pantalla completa y el soporte fuera de línea.
@@ -30,9 +30,11 @@ Suponiendo que tenes python instalado en tu máquina con linux.
 7. Desde cualquier dispositivo entrar a la direccion tu_ip:tu_puerto, para mi caso seria 192.168.1.111:8000 
 
 ### Imagenes de los pasos para correr localmente 
-<img src="img/ifconfig.png"  width="30%" height="45%" />
+<img src="img/imagen1.png"  width="30%" height="45%" />
 Imagen 1 ( Comando ifconfig para saber tu ip local )
 
+<img src="img/imagen2.png"  width="30%" height="45%" />
+Imagen 2 ( Correr el server local  )
 
 
 

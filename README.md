@@ -44,9 +44,9 @@ A simple To-do List [Progressive Web App](https://developers.google.com/web/prog
 
 Upon accessing the application from a touch device, you'll be prompted to add it to your home screen, so that it'll work just like a native mobile application, including full-screen interaction and offline support.
 
-![Entrar en las opciones (los tres puntitos)](img/primero.png)
-![Darle "Agregar al inicio" (Add to home screen)](img/segundo.png)
-![Darle "Agregar" (Add)](img/tercero.png)
+
+![Add to homescreen prompt](img/screenshot_1.png)
+![PWA running on the device](img/screenshot_2.png)
 
 ## Instructions
 

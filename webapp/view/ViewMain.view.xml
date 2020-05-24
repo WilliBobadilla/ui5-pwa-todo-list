@@ -8,8 +8,8 @@
 				</content>
 				<footer>
 					<Toolbar width="100%" id="toolbarFooter">
-						<Input value="" placeholder="New task.." id="inputAddTask" liveChange="onLiveChangeAddTask"/>
-						<Button text="Add" id="buttonAddTask" press="onPressAddTask" enabled="false"/>
+						<Input value="" placeholder="Nueva tarea... " id="inputAddTask" liveChange="onLiveChangeAddTask"/>
+						<Button text="Nuevo" id="buttonAddTask" press="onPressAddTask" enabled="false"/>
 					</Toolbar>
 				</footer>
 			</Page>

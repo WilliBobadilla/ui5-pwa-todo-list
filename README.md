@@ -26,15 +26,16 @@ Suponiendo que tenes python instalado en tu máquina con linux.
 3. Correr el siguiente comando en la terminal `ifconfig`. 
 4. Anotar el número ip en tu red, que es el inet. (ver imagen 1 abajo)
 5. Correr el siguiente comando ` python3 -m http.server --bind=192.168.1.111`, reemplazar la ip con la tuya. (ver imagen 2 abajo)
-6. Ver en que puerto corre el server, normalmente en el 8000. (ver imagen 3 abajo)
+6. Ver en que puerto corre el server, normalmente en el 8000. (ver imagen 2 tambiién abajo)
 7. Desde cualquier dispositivo entrar a la direccion tu_ip:tu_puerto, para mi caso seria 192.168.1.111:8000 
 
 ### Imagenes de los pasos para correr localmente 
-<img src="img/imagen1.png"  width="30%" height="45%" />
+<img src="img/imagen1.png"  width="80%" height="60%" />
 Imagen 1 ( Comando ifconfig para saber tu ip local )
 
-<img src="img/imagen2.png"  width="30%" height="45%" />
+<img src="img/imagen2.png"  width="80%" height="60%" />
 Imagen 2 ( Correr el server local  )
+
 
 
 
